@@ -39,6 +39,9 @@ arDdnsCheck "test.org" "subdomain"
 - 进一步POSIX化，支持Mac和大部分Linux发行版
 - 更改配置文件格式
 
+2018/01/02
+- 增加内网NAT获取公网IP设置DNS子域名
+
 # Credit
 
 Original: anrip
